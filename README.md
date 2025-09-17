@@ -4,30 +4,31 @@
 [![Bitcoin Fork](https://img.shields.io/badge/Fork-Bitcoin-orange.svg)](https://github.com/bitcoin/bitcoin)
 [![Status: Development](https://img.shields.io/badge/Status-Development-blue.svg)]()
 
-## The Future of Cryptocurrency: AI-Enhanced, Quantum-Resistant, Purpose-Driven
+## The Small Miner's Cryptocurrency: Making Mining Decentralized Again
 
-SyntheticCoin (SYNC) is a next-generation SHA-256 cryptocurrency that revolutionizes blockchain technology by integrating artificial intelligence, quantum-resistant cryptography, and novel economic mechanisms.
+SyntheticCoin (SYNC) is the first SHA-256 cryptocurrency designed specifically for small-scale miners using Bitaxe and similar devices. We solve the fundamental problem: **proving whether someone has 10 Bitaxes or 1 Antminer pretending to be 10 devices**.
 
 ## 🌟 Revolutionary Features
 
-- **AI-Driven Dynamic Difficulty Adjustment** - Real-time network optimization
-- **Neural Block Compression** - 60% blockchain size reduction
-- **Quantum-Resistant Signatures** - Future-proof security
-- **Proof-of-Useful-Work** - 30% mining power for scientific research
-- **Synthetic Asset Bridge** - Native DeFi capabilities
-- **Time-Locked Staking** - Hybrid PoW/PoS consensus
-- **Self-Healing Network** - Automatic issue resolution
-- **Privacy-Preserving Analytics** - Zero-knowledge compliance
+- **Proof-of-Device-Distribution (PoDD)** - Cryptographically verify multiple small miners
+- **Small Miner Boost** - 2x rewards for miners under 1 TH/s
+- **Device Registration** - On-chain Bitaxe verification for bonus rewards
+- **Collaborative Mining** - Small miners can form "squads" trustlessly
+- **Anti-ASIC-Farm** - Multiple mechanisms preventing mining centralization
+- **Efficiency Rewards** - Bonus for power-efficient mining
+- **Mining Hardware DAO** - Governance by device count, not hashrate
+- **Mobile Monitoring** - Dedicated app for Bitaxe management
 
 ## 📊 Specifications
 
 | Parameter | Value |
 |-----------|-------|
-| Algorithm | SHA-256 (AI-Enhanced) |
+| Algorithm | SHA-256 (Bitaxe Compatible) |
 | Block Time | 5 minutes |
-| Block Reward | 25 SYNC |
-| Max Supply | 21,000,000 SYNC |
-| Consensus | Hybrid PoW/PoS |
+| Block Reward | 50 SYNC (with small miner bonuses) |
+| Max Supply | 84,000,000 SYNC |
+| Min Hashrate | 100 GH/s (one Bitaxe) |
+| Consensus | PoW with PoDD verification |
 
 ## 🚀 Quick Start
 
